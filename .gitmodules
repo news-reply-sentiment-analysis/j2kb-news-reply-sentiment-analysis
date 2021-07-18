@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/xoxwgys56/news-reply-sentiment-server.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/waltererz/news-reply-sentiment-frontend.git
