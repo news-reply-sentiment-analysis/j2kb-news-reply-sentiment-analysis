@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/waltererz/news-reply-sentiment-frontend.git
+[submodule "reply-sentiment-analysis"]
+	path = reply-sentiment-analysis
+	url = https://github.com/xoxwgys56/reply-sentiment-analysis
