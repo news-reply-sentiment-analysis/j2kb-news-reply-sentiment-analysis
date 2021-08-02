@@ -2,10 +2,11 @@
 
 ## Summary
 
-이 곳은 **news reply sentiment analysis** 프로젝트 저장소입니다.  
-`frontend`, `backend`, `infra`, `ai`들을 **submodule**로 포함하고 있습니다.  
+This is mother repository of **news reply sentiment analysis**.
 
-또한 이 프로젝트는 [j2kb](https://www.j2kbcoding.com/)라는 개발 커뮤니티의 **포니콘(pony-con)** 프로젝트입니다.
+You can check related application which backend, frontend linked as submodule.
+
+Also this is **ponycon** project of [j2kb](https://www.j2kbcoding.com/) developer community.
 
 ## Stack
 
@@ -38,8 +39,6 @@
 ---
 
 ## References
-
-### Architecture diagram
 
 ![infra architecture](docs/diagram/news-reply-analysis.png)
 
