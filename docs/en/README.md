@@ -40,5 +40,5 @@ Also this is **ponycon** project of [j2kb](https://www.j2kbcoding.com/) develope
 
 ## References
 
-![infra architecture](docs/diagram/news-reply-analysis.png)
+![infra architecture](../diagram/news-reply-analysis.png)
 
